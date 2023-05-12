@@ -10,3 +10,6 @@ Most developers thought to not able to wrap texture to STL model, but I did it.
 ```sh
 npm run dev
 ```
+# Live URL
+
+https://stl-texture.onrender.com
